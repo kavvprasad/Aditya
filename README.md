@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kavvprasad
 - 👀 I’m interested in learning technologies related to F5, Checkpoint,Zscaler,Citrix VPN,Paloalto
 - 🌱 I’m currently learning related to F5, Checkpoint,Zscaler,Citrix VPN,Paloalto
-- 💞️ I’m looking to collaborate on GITLAB
+- 💞️ I’m looking to collaborate on GitLab
 - 📫 How to reach me venkataaditya8556@gmail.com or 9033905810
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
